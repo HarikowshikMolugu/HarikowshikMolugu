@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">## Education 🎓</h2>
+<h2 align="left">## Education 🎓</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">## Skills 🛠️</h2>
+<h2 align="left">## Skills 🛠️</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h1 align="center">## Experience 💼</h1>
+<h1 align="left">## Experience 💼</h1>
 
 ###
 
@@ -73,6 +73,17 @@
 ###
 
 <h3 align="left">- 🌟 Java Full Stack Developer Intern at Miracle Software Systems (05/2023 - 06/2023)<br>  - 💡 Actively participated in multifaceted projects, amplifying my proficiency across the entire stack. 🎯🔗🚀<br>  - 🔄 Collaborated within an agile environment, adapting to evolving project requirements and ensuring high-quality deliverables. 🛠️🤖🌀<br>  - 🌐 Developed intuitive user interfaces, optimized database performance, and implemented robust backend solutions. 💻🚀🔍</h3>
+
+###
+
+<h2 align="left">📂 Projects</h2>
+
+###
+
+<h3 align="left">
+### InfiniTALK 💬<br>Presenting a polished chat application inspired by WhatsApp, with robust end-to-end encryption for top-tier user privacy. Engineered using React.js and Node.js, this platform supports dynamic exchanges among registered users. 🚀 Currently available in Desktop mode only. 💻<br><br>Check it out: <a href="https://chat-application-blond.vercel.app/">InfiniTalk</a> 🚀<br><br>
+### ITYUKTA2K23 🎉<br>Crafted a responsive website for the prestigious technical fest within JNTU College of Engineering, Vizianagaram's Information Technology (IT) department. Seamlessly facilitating workshop and event registrations, the platform is entirely built on React, with enhancements from EmailJS, Animate.js, and other cutting-edge tools. 🛠️✨ Experience seamless event participation and innovation! 🎉🚀<br><br>Check it out: [ITYUKTA2K23](http://www.ityukta2k23.org) ✨<br><br>
+### MOVIELIST 🎬<br>Crafted a responsive website displaying a comprehensive list of movies and series, complete with their information, cast details, languages, and trailers. Explore and watch trailers of your favorite content, all in one place! 🎬🌟<br><br>Check it out: [MOVIELIST](https://movie-list-five-orpin.vercel.app/) 🎥</h3>
 
 ###
 
@@ -97,4 +108,3 @@
 </div>
 
 ###
-
