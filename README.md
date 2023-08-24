@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🚀 I am an PERN Stack Developer and Dynamic problem solver with a proven track record of turning challenges into opportunities. My dedication to continuous learning drives me to stay at the forefront of industry trends, ensuring innovative and effective solutions. 🧠💡<br><br>🔗 Portfolio Link:  https://portfolio-amber-sigma-31.vercel.app/</p>
+<p align="center">🚀 I am an PERN Stack Developer and Dynamic problem solver with a proven track record of turning challenges into opportunities. My dedication to continuous learning drives me to stay at the forefront of industry trends, ensuring innovative and effective solutions. 🧠💡<br><br>🔗 Portfolio Link:  <a href="https://portfolio-amber-sigma-31.vercel.app/">Portfolio</a></p>
 
 ###
 
@@ -81,9 +81,9 @@
 ###
 
 <h3 align="left">
-### InfiniTALK 💬<br>Presenting a polished chat application inspired by WhatsApp, with robust end-to-end encryption for top-tier user privacy. Engineered using React.js and Node.js, this platform supports dynamic exchanges among registered users. 🚀 Currently available in Desktop mode only. 💻<br><br>Check it out: <a href="https://chat-application-blond.vercel.app/">InfiniTalk</a> 🚀<br><br>
-### ITYUKTA2K23 🎉<br>Crafted a responsive website for the prestigious technical fest within JNTU College of Engineering, Vizianagaram's Information Technology (IT) department. Seamlessly facilitating workshop and event registrations, the platform is entirely built on React, with enhancements from EmailJS, Animate.js, and other cutting-edge tools. 🛠️✨ Experience seamless event participation and innovation! 🎉🚀<br><br>Check it out: [ITYUKTA2K23](http://www.ityukta2k23.org) ✨<br><br>
-### MOVIELIST 🎬<br>Crafted a responsive website displaying a comprehensive list of movies and series, complete with their information, cast details, languages, and trailers. Explore and watch trailers of your favorite content, all in one place! 🎬🌟<br><br>Check it out: [MOVIELIST](https://movie-list-five-orpin.vercel.app/) 🎥</h3>
+### <h2><b>InfiniTALK 💬</b></h2><br>Presenting a polished chat application inspired by WhatsApp, with robust end-to-end encryption for top-tier user privacy. Engineered using React.js and Node.js, this platform supports dynamic exchanges among registered users. 🚀 Currently available in Desktop mode only. 💻<br><br>Check it out: <a href="https://chat-application-blond.vercel.app/">InfiniTalk</a> 🚀<br><br>
+### <h2><b>ITYUKTA2K23</b></h2> 🎉<br>Crafted a responsive website for the prestigious technical fest within JNTU College of Engineering, Vizianagaram's Information Technology (IT) department. Seamlessly facilitating workshop and event registrations, the platform is entirely built on React, with enhancements from EmailJS, Animate.js, and other cutting-edge tools. 🛠️✨ Experience seamless event participation and innovation! 🎉🚀<br><br>Check it out:<a href="http://www.ityukta2k23.org">ITYUKTA2K23</a>✨<br><br>
+### <h2><b>MOVIELIST 🎬</b></h2><br>Crafted a responsive website displaying a comprehensive list of movies and series, complete with their information, cast details, languages, and trailers. Explore and watch trailers of your favorite content, all in one place! 🎬🌟<br><br>Check it out:Check it out:<a href="https://movie-list-five-orpin.vercel.app/">MOVIELIST</a>🎥</h3>
 
 ###
 
