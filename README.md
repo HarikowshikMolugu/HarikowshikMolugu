@@ -98,6 +98,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HarikowshikMolugu/HarikowshikMolugu/output/snake.svg" alt="Snake animation" />
-
-###
