@@ -12,11 +12,11 @@
 
 
 
-<p align="center">🚀 I am an PERN Stack Developer and Dynamic problem solver with a proven track record of turning challenges into opportunities. My dedication to continuous learning drives me to stay at the forefront of industry trends, ensuring innovative and effective solutions. 🧠💡<br><br>🔗 Portfolio Link:  <a href="https://portfolio-amber-sigma-31.vercel.app/">Portfolio</a></p>
+<h3 align="center">🚀 I am an PERN Stack Developer and Dynamic problem solver with a proven track record of turning challenges into opportunities. My dedication to continuous learning drives me to stay at the forefront of industry trends, ensuring innovative and effective solutions. 🧠💡<br><br>🔗 Portfolio Link:  <a href="https://portfolio-amber-sigma-31.vercel.app/">Portfolio</a></h3>
 
 
 
-<h2 align="left">## Education 🎓</h2>
+<h2 align="left">Education 🎓</h2>
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-<h2 align="left">## Skills 🛠️</h2>
+<h2 align="left">Skills 🛠️</h2>
 
 
 
@@ -56,11 +56,13 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarikowshikMolugu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarikowshikMolugu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="250" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarikowshikMolugu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=HarikowshikMolugu&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 
-<h1 align="left">## Experience 💼</h1>
+<h1 align="left">Experience 💼</h1>
 
 
 
