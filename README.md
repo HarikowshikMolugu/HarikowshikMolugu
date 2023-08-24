@@ -69,7 +69,7 @@
 </div><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarikowshikMolugu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="250" alt="languages graph" /> <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarikowshikMolugu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br><br>
+  
   <img src="https://streak-stats.demolab.com?user=HarikowshikMolugu&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
