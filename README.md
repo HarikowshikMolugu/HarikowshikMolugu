@@ -55,16 +55,16 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarikowshikMolugu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="300" alt="languages graph"  />
+</div>
 ###
 
 <h1 align="left">## Experience 💼</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarikowshikMolugu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="300" alt="languages graph"  />
-</div>
+
 
 ###
 
