@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img height="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif"  />
+  <img height="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif"  />
 </div>
 
 
